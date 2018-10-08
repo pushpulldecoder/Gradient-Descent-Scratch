@@ -26,7 +26,7 @@ Output                  : The gradient of the cost function is given by
 Implementation:
 
 
-err[-1]                       = loss * activator.derivative[-1]
+err[-1]                         = loss * activator.derivative[-1]
 
 for lay_num in (total_layers-1):
   err[-L]                       = hadmardProduct(dotProduct(weight[-L+1].transpose, err[-L+1]), activator.derivative[-L])
