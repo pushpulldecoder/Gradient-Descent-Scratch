@@ -1,13 +1,13 @@
 # Gradient Descent from Scratch
 
-> Looking down the misty path to uncertain destinations🌌🍀&nbsp;&nbsp;&nbsp;<br>
+<!-- > Looking down the misty path to uncertain destinations🌌🍀&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- x' <br><br><br>
-
+ -->
 
 It is a gradient descent algorithm for classification implemented from scratch using numpy library.
 
 
-<img src = https://github.com/pushpull13/Gradient-Descent-Scratch/blob/master/ann.jpg>
+<img src = https://github.com/pushpulldecoder/Gradient-Descent-Scratch/blob/master/ann.jpg>
 
 ## Dependencies
 - Numpy
